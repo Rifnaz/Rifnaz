@@ -8,7 +8,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rifnaz&label=Profile%20views&color=0e75b6&style=flat" alt="rifnaz" /> </p>
 
 <!--<img align="right" alt="codding image" width="320" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b48b328150e5a231e8d1f.gif">-->
-<img align="right" alt="codding image" width="320" src="./src/github-coder-image-preview.png">
+<img align="right" alt="codding image" width="400" src="./src/github-coder-image-preview.png"> <br>
 
 <!--<p align="left"> <a href="https://twitter.com/hanifarifnaz" target="blank"><img src="https://img.shields.io/twitter/follow/hanifarifnaz?logo=twitter&style=for-the-badge" alt="hanifarifnaz" /></a> </p>-->
 
