@@ -33,7 +33,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rifnaz&&theme=tokyonight" alt="rifnaz" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rifnaz&show_icons=true&locale=en&theme=tokyonight" alt="rifnaz" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=rifnaz&show_icons=true&locale=en&theme=tokyonight" alt="rifnaz" /></p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rifnaz&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="rifnaz" /></p>
 
