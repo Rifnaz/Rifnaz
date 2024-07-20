@@ -1,5 +1,6 @@
 <img src="./src/github-header-image.png" width="1200">
-<h1 align="center">Hi 👋, I'm Rifnas Hanifa</h1>
+<!--<h1 align="center">Hi 👋, I'm Rifnas Hanifa</h1>-->
+<h1 align="center"></h1>
 <h3 align="center">Self-Motivated Software Engineer from SriLanka</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rifnaz&label=Profile%20views&color=0e75b6&style=flat" alt="rifnaz" /> </p>
