@@ -1,4 +1,6 @@
-<img src="./src/github-header-banner-finalized.png" width="1000">
+<div align="center">
+  <img src="./src/github-header-banner-finalized.png">
+</div>
 <!--<h1 align="center">Hi 👋, I'm Rifnas Hanifa</h1>-->
 <h1 align="center"></h1>
 <h3 align="center">Self-Motivated Software Engineer from SriLanka</h3>
