@@ -1,8 +1,8 @@
-<div align="center">
-  <img src="./src/github-header-banner-finalized.png" width="1000">
-</div>
+<h1 align="center">
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&duration=4000&pause=200&color=F7EAF2&center=true&vCenter=true&width=435&lines=Hello+there!%F0%9F%91%8B;I'm+Rifnaz+Hanifa;Full-Stack+Developer+%F0%9F%91%A9%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB" alt="Typing SVG" /></a>
+</h1>
+
 <!--<h1 align="center">Hi 👋, I'm Rifnas Hanifa</h1>-->
-<h1 align="center"></h1>
 <h3 align="center">Self-Motivated Software Engineer from SriLanka</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rifnaz&label=Profile%20views&color=0e75b6&style=flat" alt="rifnaz" /> </p>
