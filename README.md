@@ -1,3 +1,4 @@
+![Header](./src/github-header-image.png)
 <h1 align="center">Hi 👋, I'm Rifnas Hanifa</h1>
 <h3 align="center">Self-Motivated Software Engineer from SriLanka</h3>
 
